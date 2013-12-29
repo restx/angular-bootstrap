@@ -1,4 +1,6 @@
-# angular-seed — the seed for AngularJS apps
+# angular-seed + bootstrap — the seed for AngularJS apps with Twitter Bootstrap
+
+_Note: this is a fork of angular-seed with the addition of Twitter Bootstrap._
 
 This project is an application skeleton for a typical [AngularJS](http://angularjs.org/) web app.
 You can use it to quickly bootstrap your angular webapp projects and dev environment for these
